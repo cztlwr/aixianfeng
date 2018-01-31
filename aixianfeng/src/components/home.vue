@@ -6,7 +6,7 @@
 		  <swipe-item class="slide2"></swipe-item>
 		  <swipe-item class="slide3"></swipe-item>
 		</swipe>
-		爱鲜蜂首页
+		爱鲜蜂首页666
 	</div>
 	
 </template>
